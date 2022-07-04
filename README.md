@@ -9,7 +9,7 @@ IMNOldDog/IMNOldDog is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 Presently I'm just a student practically speaking.
-My skill set wide and varied, yet not what I would call practically functional.
+My skill set is wide and varied, yet not what I would call practically functional.
 I'm interested in developing software using JavaScript.
 I'm currently learning Visual Studio Code, Python, and Git/GitHub.
 I'm looking to collaborate on developing web deveopment projects using JavaScript in the near future.
